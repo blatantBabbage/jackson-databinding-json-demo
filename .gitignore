@@ -1,0 +1,8 @@
+# IDE files #
+#############
+.idea
+.DS_Store
+*.iml
+lib
+target
+OUT
